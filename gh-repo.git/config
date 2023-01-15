@@ -1,0 +1,9 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+[remote "origin"]
+	url = https://github.com/Enkelejd1912/gh-repo.git
+	fetch = +refs/*:refs/*
+	mirror = true
+	pushurl = https://gitlab.com/enkelejdbraho/gl-repo.git
